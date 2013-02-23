@@ -1,5 +1,4 @@
 -- John Dulin
--- John Dulin
 -- February 2013
 -- Hi, my name ith Winthrop!
 -- I'm a thimple lithp proceththor!
